@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @sreekanth666
-- 👀 I’m interested in programming, gaming, photography and editing
-- 🌱 I’m currently learning Bsc Computer science
-- 📫 You can reach me on GitHub
+- 😊 Newbie here
+- 🧑‍💻 Not so pro in programming but likes it
+- ❤️ Happy to know new things
+That's all about me.
 
 <!---
 sreekanth666/sreekanth666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
