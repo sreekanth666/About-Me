@@ -1,9 +1,13 @@
-- 👋 Hi there! I'm Sreekanth, a curious and enthusiastic learner with a passion for programming.
-- 😊 Although I'm not a pro (yet!), I enjoy tinkering with code and exploring new technologies. Whether it's building simple projects or diving into more complex ones, I always strive to learn and grow as a developer.
-- 🧑‍💻 I'm always eager to expand my knowledge and try out new things.
-- ❤️ When I'm not coding, you can find me designing and editing stuffs. I believe that a well-rounded life is key to staying creative and inspired!
+# Hi there, I'm Sreekanth 👋
 
-<!---
-sreekanth666/sreekanth666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a recent graduate of BSc Computer Science from Sri C Achuthamenon Government College in Thrissur, Kerala. My skills include team management, C programming, HTML, CSS, PHP, and leadership. I'm currently learning Python Django and MEARN stack.
+
+## 🔭 Project Description
+
+The Attendance Management System is a web application that simplifies the process of recording attendance and managing attendance data for students and faculty. The system allows students to log in, view their attendance records, and apply for leave requests. Faculty members can view student attendance reports, approve or deny leave requests, and add new courses or classes.
+
+The system is being developed using PHP, MySQL, and HTML/CSS. The system also incorporates best practices for security and user privacy.
+
+## 🌱 I’m currently learning...
+
+I'm currently learning Python Django and the MEARN stack (MongoDB, Express.js, Angular, and Node.js).
