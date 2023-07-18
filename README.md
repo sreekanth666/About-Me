@@ -10,4 +10,4 @@ The system is being developed using PHP, MySQL, and HTML/CSS. The system also in
 
 ## 🌱 I’m currently learning...
 
-I'm currently learning Python Django and the MEARN stack (MongoDB, Express.js, Angular, and Node.js).
+I'm currently learning MEARN stack (MongoDB, Express.js, Angular, and Node.js).
